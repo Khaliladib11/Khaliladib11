@@ -1,4 +1,4 @@
-<h1 align = "center"> Hi, I'm Ashish Johnson</h1>
+<h1 align = "center"> Hi, I'm Khalil Adib</h1>
 
 <p align = "center">
 <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yNgHbJSB/computer.gif' border='10' alt='dancing' width="400" height="350"/></a>
@@ -7,10 +7,8 @@
 
 <div align = "center">
  
-<a href = "mailto:ashish.space5@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/-gmail-novoforce?style=for-the-badge&logo=gmail&logoColor=white&color=red&labelColor=000000' border='0' alt='Gmail'/></a>
-<a href='https://www.linkedin.com/in/johnsonashish030895/' target='_blank'><img src='https://img.shields.io/badge/-linkedin-novoforce?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=000000' border='0' alt='Linkedin'/></a>
- <a href='https://novoforce.github.io/' target='_blank'><img src='https://img.shields.io/badge/-github-novoforce?style=for-the-badge&logo=github&logoColor=white&color=white&labelColor=000000' border='0' alt='Github'/></a>
- <a href='https://leetcode.com/novoforce/' target='_blank'><img src='https://img.shields.io/badge/-leetcode-novoforce?style=for-the-badge&logo=leetcode&logoColor=white&color=yellow&labelColor=000000' border='0' alt='Leetcode'/></a>
+<a href = "mailto:khaliladib11@gmail.com?subject = Feedback&body = Message" target='_blank'><img src='https://img.shields.io/badge/-gmail-novoforce?style=for-the-badge&logo=gmail&logoColor=white&color=red&labelColor=000000' border='0' alt='Gmail'/></a>
+<a href='https://www.linkedin.com/in/khalil-adib/' target='_blank'><img src='https://img.shields.io/badge/-linkedin-novoforce?style=for-the-badge&logo=linkedin&logoColor=white&color=blue&labelColor=000000' border='0' alt='Linkedin'/></a>
  
  
 </div>
