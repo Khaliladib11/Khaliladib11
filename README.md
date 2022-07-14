@@ -15,20 +15,17 @@
 
 
 <div align = "center">
-  <h4>I'm an AI Engineer interested in Computer Vision </h4>
+  <h4>I'm a software and AI Engineer interested in Computer Vision </h4>
  
  <h4><img src="https://media.giphy.com/media/giEkKR58desN2ehLLR/giphy.gif" width="90">Skillset:</h4>
   
   ```
-    0. Deep Learning: Pytorch, Tensorflow-Keras, Opencv
-    1. Automation: RobotFramework, Selenium
-    2. Languages : Python, C++
+    0. Deep Learning: Pytorch, Tensorflow-Keras
+    1. Languages : Python, Java, JavaScript, C#
     3. Frontend : HTML , CSS , JS , Bootstrap
-    4. Backend : Django, Flask
+    4. Backend : Django, Flask, ASP.NET Core
     5. Database : SQL
   ```
-  
-  I can visualize a business usecase and translate to programming design which includes AI. I'm a self sufficient engineer who has acquired the above skillset while wokring throughout out my 3 years of career. I won't claim to be expert in any of the above but competent enough to get things working.  
   
 </div>
   
@@ -37,16 +34,14 @@
 
 <div align = "center">
   
-[![Ashish's github activity graph](https://activity-graph.herokuapp.com/graph?username=novoforce&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=novoforce&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=novoforce&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=novoforce&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=novoforce&theme=dracula)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=novoforce&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khaliladib11&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khaliladib11&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=khaliladib11&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=khaliladib11&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=khaliladib11&theme=radical&utcOffset=8)
   
 </div>
 
 <hr/>
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get connected!</b><a href='https://www.linkedin.com/in/johnsonashish030895/' target='_blank'><img src='https://img.shields.io/badge/-linkedin-novoforce?style=flat-square&logo=linkedin&logoColor=white&color=blue&labelColor=000000' border='0' alt='Linkedin'/></a></em>
+<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to get connected!</b><a href='https://www.linkedin.com/in/khalil-adib/' target='_blank'><img src='https://img.shields.io/badge/-linkedin-novoforce?style=flat-square&logo=linkedin&logoColor=white&color=blue&labelColor=000000' border='0' alt='Linkedin'/></a></em>
