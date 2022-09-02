@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi, I'm Khalil Adib<img src="https://github.com/Khaliladib11/Khaliladib11/blob/main/wave.gif" width="30"></h1> 
 
 <p align = "center">
-<a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/yNgHbJSB/computer.gif' border='10' alt='dancing' width="400" height="350"/></a>
+<img src='https://github.com/Khaliladib11/Khaliladib11/blob/main/giphy.gif' border='10'/>
 </p>
 
 
